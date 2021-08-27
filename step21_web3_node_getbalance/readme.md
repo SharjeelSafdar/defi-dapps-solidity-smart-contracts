@@ -1,5 +1,10 @@
 # Step21: Web3.js Introduction: Get Balance
 
+## References
+
+1.  [Watch Intro](https://www.youtube.com/watch?v=t3wM5903ty0)
+2.  [Read the #1 of this Tutorial](https://www.dappuniversity.com/articles/web3-js-intro)
+
 ## Prerequisites
 
 1.  Install [Node 14+ LTS](https://nodejs.org/en/download/)
@@ -73,8 +78,3 @@ npm link typescript
 ```
 npm start
 ```
-
-# References
-
-1.  [Watch Intro](https://www.youtube.com/watch?v=t3wM5903ty0)
-2.  [Read the #1 of this Tutorial](https://www.dappuniversity.com/articles/web3-js-intro)
