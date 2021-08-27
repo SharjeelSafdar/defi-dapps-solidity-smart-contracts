@@ -11,10 +11,19 @@ npm install -g typescript
 
 ## Step 1
 
-Initialize a package.json file.
+Initialize a `package.json` file.
 
 ```
 npm init
+```
+
+Add the following scripts in the `package.json`.
+
+```json
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "ts-node-dev --respawn index.ts"
+}
 ```
 
 Install the required npm packages.
