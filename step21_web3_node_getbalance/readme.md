@@ -1,4 +1,4 @@
-# Web3.js Introduction: Get Balance
+# Step21: Web3.js Introduction: Get Balance
 
 ## Prerequisites
 
