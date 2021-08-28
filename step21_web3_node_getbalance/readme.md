@@ -10,7 +10,7 @@
 1.  Install [Node 14+ LTS](https://nodejs.org/en/download/)
 2.  Install TypeScript globally with the following command:
 
-```
+```bash
 npm install -g typescript
 ```
 
@@ -18,7 +18,7 @@ npm install -g typescript
 
 Initialize a `package.json` file.
 
-```
+```bash
 npm init
 ```
 
@@ -33,11 +33,11 @@ Add the following scripts in the `package.json`.
 
 Install the required npm packages.
 
-```
+```bash
 npm install web3
 ```
 
-```
+```bash
 npm install @types/node nodemon ts-node-dev tslint --save-dev
 ```
 
@@ -71,10 +71,6 @@ const accountAddress = "0x53d284357ec70ce289d6d64134dfac8e511c8a3d";
 
 Now, run the project with the following two commands:
 
-```
-npm link typescript
-```
-
-```
+```bash
 npm start
 ```
