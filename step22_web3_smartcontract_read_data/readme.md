@@ -29,14 +29,13 @@ In `index.ts`, we use the ABI and address of DAI to instantiate an ERC20Token ob
 
 Run the project with the following commands:
 
-```
-npm link typescript
+```bash
 npm start
 ```
 
 or with these commands.
 
-```
+```bash
 tsc
 node index
 ```
