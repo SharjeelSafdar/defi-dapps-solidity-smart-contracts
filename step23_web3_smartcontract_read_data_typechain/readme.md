@@ -4,7 +4,9 @@
 
 1.  [Introducing TypeChain — Typescript bindings for Ethereum smart contracts](https://blog.neufund.org/introducing-typechain-typescript-bindings-for-ethereum-smart-contracts-839fc2becf22)
 
-2.  [We will follow this TypeChain Web3 Example](https://github.com/ethereum-ts/TypeChain/tree/master/examples/web3-v1)
+2.  [TypeChain Repo](https://github.com/ethereum-ts/TypeChain)
+
+3.  [We will follow this TypeChain Web3 Example](https://github.com/ethereum-ts/TypeChain/tree/master/examples/web3-v1)
 
 ## Step 1
 
