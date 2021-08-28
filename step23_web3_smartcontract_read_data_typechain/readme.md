@@ -57,14 +57,13 @@ In `index.ts`, we instantiate a `DaiToken` object, and then, play with it.
 
 Run the project with the following commands:
 
-```
-npm link typescript
+```bash
 npm start
 ```
 
 or with these commands.
 
-```
+```bash
 tsc
 node index
 ```
