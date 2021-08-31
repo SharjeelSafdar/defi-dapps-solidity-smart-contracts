@@ -26,7 +26,7 @@ Download MetaMask wallet (for Chrome use this [extension](https://chrome.google.
 Connect your MetaMask wallet to Ropsten Test Network (as in the following figure) to check if you have received ETH.
 
 <p align="center">
-<img src="./images/changing_network_in_metamask.png" alt="Connecting to Ropsten Network in MetaMask" />
+  <img src="./images/changing_network_in_metamask.png" alt="Connecting to Ropsten Network in MetaMask" />
 </p>
 
 ## Step 3
@@ -69,4 +69,8 @@ tsc
 node index
 ```
 
-In the console, a link to [ropsten.etherscan.io](https://ropsten.etherscan.io/) will be printed. You can see that this transaction is now a part of Ropsten Public Test Network. After the transaction, the balances of the two accounts used will be updated in MetaMask wallet as well.
+After the transaction, the balances of the two accounts used will be updated in MetaMask wallet as well. In the console, a link to [ropsten.etherscan.io](https://ropsten.etherscan.io/) will be printed. You can see that this transaction is now a part of Ropsten Public Test Network.
+
+<p align="center">
+  <img src="./images/screenshot_of_tx_ropsten.png" alt="Screenshot of Transaction on Ropsten Etherscan" />
+</p>
