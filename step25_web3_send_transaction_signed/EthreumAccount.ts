@@ -40,8 +40,10 @@ export class EthereumAccount {
 
   /**
    * Send Ethers from this account to another one with a signed transaction.
-   * @param ethersAmount amount of Ethers to send.
    * @param receiverAddress public address of receiver's account.
+   * @param ethersAmount amount of Ethers to send.
+   * @param gasLimit maximumm amount of gas you want to allow for this transaction.
+   * @param gasPriceGwei gasPrice in Gwei you want to pay for this transaction.
    * @returns transaction object for sending Ethers.
    */
   sendSignedTransaction = async (
