@@ -17,7 +17,7 @@ npm i -D dotenv
 
 ## Step 2
 
-Download MetaMask wallet (for Chrome use this [extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)) and create two accounts in the wallet (one account will be created automatically when first creating the wallet). Get some fake ETH from a faucet for one of your accounts. Following are some of the faucets available on Ropsten Pulic Test Network:
+Download MetaMask wallet (for Chrome use this [extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)) and create two accounts in the wallet (one account will be created automatically when first creating the wallet). Get some fake ETH from a faucet for one of your accounts. Following are some of the faucets available on Ropsten Public Test Network:
 
 1.  [Ropsten Ethereum (rETH) Faucet](https://faucet.dimensions.network/)
 2.  [Throttled Testnet Faucet](https://ipfs.io/ipfs/QmVAwVKys271P5EQyEfVSxm7BJDKWt42A2gHvNmxLjZMps/)
