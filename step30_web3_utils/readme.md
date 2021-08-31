@@ -16,7 +16,7 @@ Create `index.ts` file. In this file, We have used different Web3JS utility func
 
 ```ts
 // Ropsten Test Network endpoint.
-const network = "ropsten";
+const network = "mainnet";
 const INFURA_PROJECT_ID = "INFURA_PROJECT_ID";
 const RPC_ENDPOINT = `https://${network}.infura.io/v3/${INFURA_PROJECT_ID}`;
 ```

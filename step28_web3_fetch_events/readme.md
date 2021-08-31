@@ -20,7 +20,7 @@ Create `SmartContract.ts` and `index.ts` files. In `SmartContract.ts` file, repl
 
 ```ts
 // Ropsten Test Network endpoint.
-const network = "ropsten";
+const network = "mainnet";
 const INFURA_PROJECT_ID = "INFURA_PROJECT_ID";
 const RPC_ENDPOINT = `https://${network}.infura.io/v3/${INFURA_PROJECT_ID}`;
 ```
