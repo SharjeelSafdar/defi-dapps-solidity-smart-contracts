@@ -1,4 +1,4 @@
-# Reading events from Smart Contracts
+# Step 28: Reading events from Smart Contracts
 
 ## References:
 
